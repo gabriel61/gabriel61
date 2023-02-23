@@ -1,16 +1,51 @@
-### Hi there 👋
+<div align="center">
+<h1>Olá! 👋</h1>
+<h3>Sou Gabriel Sampaio, pessoa desenvolvedora interessada em engenharia de computação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área.</h3>
 
-<!--
-**gabriel61/gabriel61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>💻 Experiência acadêmica no curso de Engenharia de Computação pela UFRB.</h4>
+<h4>💻 Tenho conhecimentos em Python, Php, JavaScript, Java, HTML, CSS e mais.</h4>
+<h4>💻 Familiarizado com o VSCode, Spider, IntelliJ, MySQL, Postman.</h4>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <a href="https://github.com/gabriel61">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel61&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel61&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block"><h2>Linguagens e tecnologias que você encontra por aqui</h2>
+          
+  <img align="center" alt="Gabriel-python" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Gabriel-django" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-php" height="60" width="90"height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Gabriel-laravel" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-javascript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabriel-react" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gabriel-java" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gabriel-jupyter" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Gabriel-html5" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
+  <img align="center" alt="Gabriel-css3" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  
+          
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block"><h2>Minhas redes sociais para contato</h2>
+  
+  <a href = "mailto:sogabris@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sogabris" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+</div>
+
+<br>
+
+<div>
+ ![Snake animation](https://github.com/gabriel61/gabriel61/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
