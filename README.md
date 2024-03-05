@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Olá! 👋</h1>
-<h3>Sou Gabriel Sampaio, pessoa desenvolvedora interessada em engenharia de computação, desenvolvimento de software e analise de sistemas. Buscando por oportunidades, desafios e experiências de trabalho na área.</h3>
+<h3>Sou Gabriel Sampaio, pessoa desenvolvedora interessada em engenharia de computação, desenvolvimento de software e inteligência artificial. Buscando por oportunidades, desafios e experiências de trabalho na área.</h3>
 
 <h4>💻 Experiência acadêmica no curso de Engenharia de Computação pela UFRB.</h4>
 <h4>💻 Tenho conhecimentos em Python, Php, JavaScript, Java, HTML, CSS e mais.</h4>
