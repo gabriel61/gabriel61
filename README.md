@@ -3,8 +3,8 @@
 <h3>Sou Gabriel Sampaio, pessoa desenvolvedora interessada em engenharia de computação, desenvolvimento de software e inteligência artificial. Buscando por oportunidades, desafios e experiências de trabalho na área.</h3>
 
 <h4>💻 Experiência acadêmica no curso de Engenharia de Computação pela UFRB.</h4>
-<h4>💻 Tenho conhecimentos em Python, Php, JavaScript, Java, HTML, CSS e mais.</h4>
-<h4>💻 Familiarizado com o VSCode, Spider, IntelliJ, MySQL, Postman.</h4>
+<h4>💻 Tenho conhecimentos em Python, Java, JavaScript, Django, Spring Boot e mais.</h4>
+<h4>💻 Familiarizado com o VSCode, Jupyter, IntelliJ, PyCharm, MySQL, PostgreSQL, Postman.</h4>
 
 </div>
 
@@ -22,11 +22,12 @@
           
   <img align="center" alt="Gabriel-python" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Gabriel-django" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-java" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gabriel-java" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Gabriel-php" height="50" width="75"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Gabriel-laravel" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">
   <img align="center" alt="Gabriel-javascript" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabriel-react" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gabriel-java" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gabriel-jupyter" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Gabriel-html5" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
   <img align="center" alt="Gabriel-css3" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
